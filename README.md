@@ -1,4 +1,4 @@
-A reposistory to test simple git branching.
+A repository to test simple git branching.
 
 Useful links:
 - https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
